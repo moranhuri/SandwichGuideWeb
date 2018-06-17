@@ -47,7 +47,7 @@
 }
 
 .owl-carousel {
-    display: none;
+      display: -webkit-inline-box;
     width: 100%;
     -webkit-tap-highlight-color: transparent;
     position: relative;
